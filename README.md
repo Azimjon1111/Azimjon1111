@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact With Me
 
-![Email:azimjon.nodir@gmail.com](https://img.shields.io/badge/-nurmuhammaddeveloper@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![Email:azimjon.nodir@gmail.com](https://img.shields.io/badge/-azimjon.nodir@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/azimjondev)
 
 
