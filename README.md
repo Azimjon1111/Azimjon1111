@@ -8,7 +8,7 @@
 Azimjon1111/Azimjon1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Header](https://raw.githubusercontent.com/Azimjon1111/Azimjon1111/main/Azimjon.jpg)](https://t.me/mukhammadyn)
+[![Header](https://raw.githubusercontent.com/Azimjon1111/Azimjon1111/main/Azimjon.jpg)](https://t.me/azimjondev)
 
 
 ### Languages and Tools
