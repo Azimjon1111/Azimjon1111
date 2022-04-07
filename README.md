@@ -25,16 +25,15 @@ You can click the Preview link to take a look at your changes.
 
 ### Follow Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nurmuhammad-mahmud-455bb2208)
-[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCCOMpakRNl4sQwngPpjqUfQ)
-[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/nurmuhammad_maxmudov)
-[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/mukhammadyn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/azimjon-bekmurotov-717605223/)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/azimjondev/)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhammadyn)
 
 
 ### Contact With Me
 
-![Email:nurmuhammaddeveloper@gmail.com](https://img.shields.io/badge/-nurmuhammaddeveloper@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhammadyn)
+![Email:azimjon.nodir@gmail.com](https://img.shields.io/badge/-nurmuhammaddeveloper@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/azimjondev)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhammadyn&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
